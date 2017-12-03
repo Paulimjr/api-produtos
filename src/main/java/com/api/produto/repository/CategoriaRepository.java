@@ -13,6 +13,5 @@ import com.api.produto.entity.Categoria;
  */
 @Repository
 public interface CategoriaRepository extends JpaRepository<Categoria, Integer> {
-	
-
+		
 }
